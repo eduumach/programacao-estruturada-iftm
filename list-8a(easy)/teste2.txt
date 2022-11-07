@@ -1,0 +1,5 @@
+5 -> positivo ímpar.
+-8 -> negativo par.
+4 -> positivo par.
+9 -> positivo ímpar.
+-2 -> negativo par.
